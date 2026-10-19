@@ -1,19 +1,18 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width， initial-scale=1.0">
   <meta name="description" content="博士生个人主页，关注时间序列处理与相关科研。">
   <title>贾书瑞</title>
   <style>
     :root { color-scheme: light; --ink: #24352f; --muted: #68736c; --accent: #31745b; --line: #dde3da; }
     * { box-sizing: border-box; }
     html { scroll-behavior: smooth; scroll-padding-top: 28px; }
-    body { margin: 0; background: #f7f8f3; color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; line-height: 1.8; }
+    body { margin: 0; background: #f7f8f3; color: var(--ink); font-family: -apple-system， BlinkMacSystemFont， "Segoe UI"， "PingFang SC"， "Microsoft YaHei"， sans-serif; line-height: 1.8; }
     a { color: var(--accent); text-underline-offset: 5px; }
     a:hover { color: #194c39; }
     a:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
-    .container { width: min(900px, calc(100% - 48px)); margin: auto; }
+    .container { width: min(900px， calc(100% - 48px)); margin: auto; }
     header { padding: 26px 0; border-bottom: 1px solid var(--line); }
     .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
     .brand { color: var(--ink); text-decoration: none; font-size: 15px; font-weight: 650; letter-spacing: .04em; }
@@ -21,7 +20,7 @@
     nav a { color: var(--muted); font-size: 14px; text-decoration: none; }
     .hero { padding: 85px 0 65px; }
     .eyebrow { margin: 0 0 16px; color: var(--accent); font-size: 12px; letter-spacing: .16em; font-weight: 650; }
-    h1 { margin: 0 0 16px; font-size: clamp(36px, 7vw, 56px); font-weight: 650; letter-spacing: -.04em; line-height: 1.2; }
+    h1 { margin: 0 0 16px; font-size: clamp(36px， 7vw， 56px); font-weight: 650; letter-spacing: -.04em; line-height: 1.2; }
     .role { margin: 0 0 26px; color: var(--muted); }
     .intro { max-width: 650px; font-size: 18px; }
     .hero-links { display: flex; gap: 24px; margin-top: 28px; font-size: 14px; }
@@ -62,10 +61,10 @@
 
   <main class="container">
     <div class="hero" id="about">
-      <p class="eyebrow">RESEARCH · TIME SERIES</p>
-      <h1>你好，我是<span>贾书瑞</span>。</h1>
-      <p class="role">博士研究生 · 日本长冈技术科学大学/信息・控制专业</p>
-      <p class="intro">欢迎来到我的个人主页。我目前是一名在读博士生，主要从事AI相关研究,研究课题包括深度学习/时序生成模型/表征学习/可解释人工智能 等相关领域。这里将分享我的研究工作、论文成果与学习记录。</p>
+      <p class="eyebrow">Welcome to my homepage</p>
+      <h1>你好! 我是<span>贾书瑞</span>。</h1>
+      <p class="role">博士研究生 · 日本长冈技术科学大学 / 信息・控制专业</p>
+      <p class="intro">欢迎来到我的个人主页。我目前是一名在读博士生，主要从事AI相关研究，研究课题包括深度学习/时序生成模型/表征学习/可解释人工智能 等相关领域。这里将分享我的研究工作、论文成果与学习记录。</p>
       <div class="hero-links">
         <a href="#research">了解我的研究 ↗</a>
         <a href="https://github.com/jiashurui">GitHub ↗</a>
@@ -76,7 +75,7 @@
       <h2 id="research-title">研究方向</h2>
       <div>
         <p>我的研究聚焦于时间序列处理。</p>
-        <p class="placeholder">我关心的研究领域包括可控时间序列生成,模型内部结构及原理追溯等</p>
+        <p class="placeholder">我关心的研究领域包括可控时间序列生成，模型内部结构及原理追溯等相关领域</p>
         <div class="tags">
         <span class="tag" lang="en">Deep Learning</span>
         <span class="tag" lang="en">Time Series Analysis</span>
@@ -88,7 +87,7 @@
     <section id="publications" aria-labelledby="publications-title">
       <h2 id="publications-title">论文与研究成果</h2>
       <div class="publication">
-        <p class="placeholder">Jia, Shurui, et al. “HAR-DCWGAN: Dual-Conditional Wasserstein GAN for Human Activity Recognition Data Synthesis.” IEICE Transactions on Information and Systems, E109.D, no. 6, June 2026, pp. 936–44.</p>
+        <p class="placeholder">Jia， Shurui， et al. “HAR-DCWGAN: Dual-Conditional Wasserstein GAN for Human Activity Recognition Data Synthesis.” IEICE Transactions on Information and Systems， E109.D， no. 6， June 2026， pp. 936–44.</p>
       </div>
     </section>
 
