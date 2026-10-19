@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width， initial-scale=1.0">
-  <meta name="description" content="博士生个人主页，关注时间序列处理与相关科研。">
+  <meta name="description" content="贾书瑞的个人主页">
   <title>贾书瑞</title>
   <style>
     :root { color-scheme: light; --ink: #24352f; --muted: #68736c; --accent: #31745b; --line: #dde3da; }
@@ -94,12 +94,11 @@
     <section id="contact" aria-labelledby="contact-title">
       <h2 id="contact-title">联系我</h2>
       <p>欢迎就时间序列研究与学术合作进行交流。</p>
-      <!-- 填入真实邮箱后，可改为 <a href="mailto:你的邮箱">jiashurui1997@gmail.com</a>。 -->
+      <!-- 填入真实邮箱后，可改为 <a href="mailto:jiashurui1997@gmail.com">jiashurui1997@gmail.com</a>。 -->
       <p class="placeholder">邮箱：jiashurui1997@gmail.com</p>
       <p>GitHub：<a href="https://github.com/jiashurui">github.com/jiashurui</a></p>
     </section>
   </main>
 
-  <footer><div class="container">个人主页 · Hosted on GitHub Pages</div></footer>
 </body>
 </html>
