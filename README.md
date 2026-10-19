@@ -50,7 +50,7 @@
 <body>
   <header>
     <div class="container header-inner">
-      <a class="brand" href="#">个人主页 / ACADEMIC PROFILE</a>
+      <a class="brand" href="#">个人主页</a>
       <nav aria-label="主导航">
         <a href="#about">关于我</a>
         <a href="#research">研究方向</a>
@@ -65,7 +65,7 @@
       <p class="eyebrow">RESEARCH · TIME SERIES</p>
       <h1>你好，我是<span>贾书瑞</span>。</h1>
       <p class="role">博士研究生 · 日本长冈技术科学大学/信息・控制专业</p>
-      <p class="intro">欢迎来到我的个人主页。我目前是一名在读博士生，主要从事深度学习/生成模型/可解释人工智能 等相关研究。这里将分享我的研究工作、论文成果与学习记录。</p>
+      <p class="intro">欢迎来到我的个人主页。我目前是一名在读博士生，主要从事AI相关研究,研究课题包括深度学习/时序生成模型/表征学习/可解释人工智能 等相关领域。这里将分享我的研究工作、论文成果与学习记录。</p>
       <div class="hero-links">
         <a href="#research">了解我的研究 ↗</a>
         <a href="https://github.com/jiashurui">GitHub ↗</a>
@@ -76,8 +76,12 @@
       <h2 id="research-title">研究方向</h2>
       <div>
         <p>我的研究聚焦于时间序列处理。</p>
-        <p class="placeholder">你可以在这里进一步介绍具体的研究问题、方法，以及感兴趣的应用场景。</p>
-        <div class="tags"><span class="tag">时间序列处理</span><span class="tag" lang="en">Time Series Analysis</span></div>
+        <p class="placeholder">我关心的研究领域包括可控时间序列生成,模型内部结构及原理追溯等</p>
+        <div class="tags">
+        <span class="tag" lang="en">Deep Learning</span>
+        <span class="tag" lang="en">Time Series Analysis</span>
+        <span class="tag" lang="en">Disentangled Representation Learning</span>
+        </div>
       </div>
     </section>
 
