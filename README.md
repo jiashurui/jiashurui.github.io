@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="博士生个人主页，关注时间序列处理与相关科研。">
-  <!-- 将下方姓名、学校、论文和联系方式替换为你的信息。 -->
-  <title>个人主页 | 时间序列研究</title>
+  <title>贾书瑞</title>
   <style>
     :root { color-scheme: light; --ink: #24352f; --muted: #68736c; --accent: #31745b; --line: #dde3da; }
     * { box-sizing: border-box; }
@@ -64,9 +63,9 @@
   <main class="container">
     <div class="hero" id="about">
       <p class="eyebrow">RESEARCH · TIME SERIES</p>
-      <h1>你好，我是<span>你的姓名</span>。</h1>
-      <p class="role">博士研究生 · 学校 / 院系待填写</p>
-      <p class="intro">欢迎来到我的个人主页。我目前是一名在读博士生，主要从事时间序列处理相关研究。这里将分享我的研究工作、论文成果与学习记录。</p>
+      <h1>你好，我是<span>贾书瑞</span>。</h1>
+      <p class="role">博士研究生 · 日本长冈技术科学大学/信息・控制专业</p>
+      <p class="intro">欢迎来到我的个人主页。我目前是一名在读博士生，主要从事深度学习/生成模型/可解释人工智能 等相关研究。这里将分享我的研究工作、论文成果与学习记录。</p>
       <div class="hero-links">
         <a href="#research">了解我的研究 ↗</a>
         <a href="https://github.com/jiashurui">GitHub ↗</a>
@@ -84,17 +83,16 @@
 
     <section id="publications" aria-labelledby="publications-title">
       <h2 id="publications-title">论文与研究成果</h2>
-      <!-- 有论文后，将下方提示替换为论文标题、作者、会议/期刊以及论文或代码链接。 -->
       <div class="publication">
-        <p class="placeholder">待补充：论文标题、作者、发表会议或期刊，以及论文与代码链接。</p>
+        <p class="placeholder">Jia, Shurui, et al. “HAR-DCWGAN: Dual-Conditional Wasserstein GAN for Human Activity Recognition Data Synthesis.” IEICE Transactions on Information and Systems, E109.D, no. 6, June 2026, pp. 936–44.</p>
       </div>
     </section>
 
     <section id="contact" aria-labelledby="contact-title">
       <h2 id="contact-title">联系我</h2>
       <p>欢迎就时间序列研究与学术合作进行交流。</p>
-      <!-- 填入真实邮箱后，可改为 <a href="mailto:你的邮箱">你的邮箱</a>。 -->
-      <p class="placeholder">邮箱：待填写</p>
+      <!-- 填入真实邮箱后，可改为 <a href="mailto:你的邮箱">jiashurui1997@gmail.com</a>。 -->
+      <p class="placeholder">邮箱：jiashurui1997@gmail.com</p>
       <p>GitHub：<a href="https://github.com/jiashurui">github.com/jiashurui</a></p>
     </section>
   </main>
